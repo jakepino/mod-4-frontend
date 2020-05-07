@@ -1,0 +1,82 @@
+.App {
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: url('https://i.pinimg.com/originals/d7/6a/f7/d76af7242a2f485b90e3d4653dcedd3f.jpg');
+  
+}
+#header{
+  background-color: green;
+  font-family: fantasy;
+  font-size: 45px;
+  margin-bottom: 70px;
+  height: 120px;
+  opacity: .7;
+
+}
+.card{
+  background-color: wheat;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 25px;
+  margin-bottom: 20px;
+
+}
+img {
+  margin-top: 20px;
+  width: 200px;
+  height: 160px;
+  border-radius: 15px;
+
+
+}
+
+.cardText{
+  background-color: hotpink;
+  margin-left: 200px;
+  margin-right: 200px;
+  border-radius: 15px;
+  font-family: fantasy;
+  font-size: larger;
+  opacity: .8;
+
+
+
+}
+.comments{
+  background-color: yellowgreen;
+  margin-left: 150px;
+  margin-right: 150px;
+  border-radius: 15px;
+  opacity: .8;
+  font-family: cursive;
+
+}
+
+button {
+  font-size: .65em;
+  color: #fff;
+  background-color: green;
+  border-radius: 10px;
+}
+ input{
+  background: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid  white;
+  color: white;
+  font-size: 18px;
+  margin-bottom: 28px;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+  
+
+}
+
+
+
